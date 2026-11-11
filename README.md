@@ -1,1 +1,1 @@
-Repository for my personal Website, <marlena6.github.io>.
+Repository for my personal website, [marlena6.github.io].
